@@ -24,6 +24,18 @@ body {
     font-size: 1.0em !important;
     letter-spacing: 2px !important;
 }
+/* MAIN */
+.list-div{
+    margin-left:  10% !important;
+    margin-right: 10% !important;
+}
+/* BOTAO ADICIONAR */
+.add-div{
+    background-color: blue !important;
+    color: white !important;
+    border-radius: 5px !important;
+    padding: 0.5em !important;
+}
 
 footer {
     background-color: #333 !important;
@@ -31,5 +43,5 @@ footer {
     color: white !important;
     text-align: center !important;
     padding: 0.4em !important;
-    font-size: 0.8rem;
+    font-size: 0.8rem !important;
 }
